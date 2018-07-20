@@ -1,8 +1,8 @@
-# Husky Clicker Premium 
-## From Lesson 1_13
+# Husky Clicker Premium V2
+## From Lesson 2_9
 
 ## About this version
-This version does not use `CLOSURES` as it was supposed to.  It does meet the functionality of the rubric however.  The functionaly was created by created cat `OBJECTS` stored into an array.  I then simply modify the array of objects upon the clicks.
+This version is similar to the regular version in functionality. The difference here is that the script was created with the MVC-type of design pattern.
 
 
 ## Getting Started
@@ -20,7 +20,7 @@ To run this app you will need:
 * Load the `index.html` into your directory
 
 ## View Live Version
-* [Live Version](https://forrestang.github.io/CatClickerPremium/) - Live version on my github
+* [Live Version](https://forrestang.github.io/huskyClickerPremium_v2/) - Live version on my github
 
 
 ## Additional Libraries used
